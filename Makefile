@@ -1,5 +1,6 @@
 dot:
 	cp $(HOME)/.i3/config i3/config
+	cp $(HOME)/.config/polybar/config polybar/config
 	make git
 
 
